@@ -1,2 +1,1 @@
-# Tomando-control-con-la-IA-
-Crear una landing page que se conecte a internet para obtener datos reales y mostrarlos en pantalla. Como hacen todas las apps que usas cada día.
+Lo más dificil ha sido saber utilizar el archivo js y como tenia que hacer cada cosa dentro de él , ya una vez lo entendí , supe como hacer este ejercicio de manera facil y corta.
