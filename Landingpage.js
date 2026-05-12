@@ -17,8 +17,9 @@ async function traerPokemon() {
         // 3. Inyectar en el HTML
         // Usamos una estructura simple para mostrar ambas fotos
         pantalla.innerHTML = `
+            <p> Pokemon</p>
             <h2 style="margin-bottom: 20px;">${nombre}</h2>
-            <p>#${pokedexNum}</p>
+            <p> Numero pokédex : #${pokedexNum}</p>
             <div style="display: flex; justify-content: center; gap: 20px;">
                 <div>
                     <img src="${fotoNormal}" style="width: 150px;">
